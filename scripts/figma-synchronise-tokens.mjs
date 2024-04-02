@@ -13,7 +13,7 @@ const themesMatches = [
 const hexColorRegex = /#(?:(?:[\da-f]{3}){1,2}(?:[\da-f]{2}){0,1})/gi
 
 export const TOKENS_URL =
-  'https://raw.githubusercontent.com/scaleway/design-tokens/main/tokens.json'
+  'https://raw.githubusercontent.com/alexcbruno/ultraviolet-test-1/main/tokens.json'
 
 const header = `
 /**
